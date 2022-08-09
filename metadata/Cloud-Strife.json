@@ -1,0 +1,35 @@
+{
+    "name": "Cloud Strife",
+    "description": "Former First Class SOLDIER. After defecting from Shinra, Cloud began work as a mercenary for hire in Midgar. With his trusty broadsword in hand, he always gets the job done.",
+    "image": "https://ipfs.io/ipfs/QmX5wZUerdMTkiZE9u4UQgBM8RbivEmYeKCTg4gT2fZ3We?filename=Cloud.gif",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 48
+        },
+        {
+            "trait_type": "Strength",
+            "value": 556
+        },
+        {
+            "trait_type": "Magic",
+            "value": 518
+        },
+        {
+            "trait_type": "Vitality",
+            "value": 361
+        },
+        {
+            "trait_type": "Spirit",
+            "value": 430
+        },
+        {
+            "trait_type": "Luck",
+            "value": 903
+        },
+        {
+            "trait_type": "Speed",
+            "value": 564
+        }
+    ]
+}

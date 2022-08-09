@@ -1,0 +1,16 @@
+{
+  "name": "nft-game",
+  "version": "1.0.0",
+  "description": "NFT Game",
+  "keywords": [],
+  "author": "Mbrody22",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "@truffle/hdwallet-provider": "^1.4.3",
+    "chai": "^4.3.4",
+    "dotenv": "^10.0.0",
+    "truffle": "^5.4.5",
+    "truffle-plugin-verify": "^0.5.11"
+  }
+}

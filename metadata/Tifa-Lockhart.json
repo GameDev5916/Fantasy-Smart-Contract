@@ -1,0 +1,35 @@
+{
+    "name": "Tifa Lockhart",
+    "description": "A member of the anti-Shinra militant group Avalanche. Tifa manages Seventh Heaven, a bar located in the Sector 7 slums. A student of Zangan-style martial arts, she can clobber opponents with her fleet-footed combat techniques.",
+    "image": "https://ipfs.io/ipfs/QmQdJPpDa7MizxvNZuKsje95HvgRqAtnUyLUJfjFiFPDRD?filename=Tifa.gif",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 0
+        },
+        {
+            "trait_type": "Strength",
+            "value": 793
+        },
+        {
+            "trait_type": "Magic",
+            "value": 688
+        },
+        {
+            "trait_type": "Vitality",
+            "value": 185
+        },
+        {
+            "trait_type": "Spirit",
+            "value": 940
+        },
+        {
+            "trait_type": "Luck",
+            "value": 5
+        },
+        {
+            "trait_type": "Speed",
+            "value": 292
+        }
+    ]
+}

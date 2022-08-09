@@ -1,0 +1,35 @@
+{
+    "name": "Yuffie Kisaragi ",
+    "description": "Cunning and sly, she may look like a common thief, but Yuffie is a very skilled and powerful ninja...",
+    "image": "https://ipfs.io/ipfs/QmSH7wncBrGNANihcYnq8F5jPqyALang7R2eqoHpgX1ipo?filename=Yuffie.gif",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 25
+        },
+        {
+            "trait_type": "Strength",
+            "value": 660
+        },
+        {
+            "trait_type": "Magic",
+            "value": 403
+        },
+        {
+            "trait_type": "Vitality",
+            "value": 101
+        },
+        {
+            "trait_type": "Spirit",
+            "value": 621
+        },
+        {
+            "trait_type": "Luck",
+            "value": 220
+        },
+        {
+            "trait_type": "Speed",
+            "value": 463
+        }
+    ]
+}

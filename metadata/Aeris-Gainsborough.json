@@ -1,0 +1,35 @@
+{
+    "name": "Aeris Gainsborough",
+    "description": "A flower peddler living in the Sector 5 slums, Aerith has been under Shinra surveillance all her life because of her unique background. Capable of sensing the planet's life force, she offers magical support to her comrades.",
+    "image": "https://ipfs.io/ipfs/QmSQJkr9b1Tt1EgesPfD3gGdLAsfZjQJrTxjUcJkzn4vko?filename=Aeris.gif",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 48
+        },
+        {
+            "trait_type": "Strength",
+            "value": 693
+        },
+        {
+            "trait_type": "Magic",
+            "value": 374
+        },
+        {
+            "trait_type": "Vitality",
+            "value": 787
+        },
+        {
+            "trait_type": "Spirit",
+            "value": 24
+        },
+        {
+            "trait_type": "Luck",
+            "value": 283
+        },
+        {
+            "trait_type": "Speed",
+            "value": 372
+        }
+    ]
+}
